@@ -41,7 +41,7 @@ It combines OCR, semantic chunking, vector search (FAISS), and LLM-based answer 
 ## 🖥️ Demo
 
 ![Chatbot UI](chatbot_ui.png)
-
+![Chatbot UI](chatbot_ui_2.png)
 ---
 
 ## 🛠️ Tech Stack
